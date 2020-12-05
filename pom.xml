@@ -8,7 +8,6 @@
     <artifactId>silab.nst.dan9</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -28,16 +27,12 @@
     </build>
 
     <dependencies>
-
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
             <version>5.3.1</version>
         </dependency>
-
-
     </dependencies>
-
 
 </project>
